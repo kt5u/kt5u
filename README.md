@@ -1,4 +1,4 @@
-# 💠 kt5u
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kt5u.kt5u"/>
 **`Computer Science Student`**
 
 👨‍💻 Computer Science Student | Passionate about coding, problem-solving, and learning new technologies.
