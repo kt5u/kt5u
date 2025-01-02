@@ -20,4 +20,4 @@
 
 ### 📊 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kt5u&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kt5u&theme=iceberg)](https://git.io/streak-stats)
