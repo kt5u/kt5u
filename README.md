@@ -1,16 +1,22 @@
-## Hi there 👋
+# 💠 kt5u
+**`Computer Science Student`**
 
-<!--
-**kt5u/kt5u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Computer Science Student | Passionate about coding, problem-solving, and learning new technologies.
 
-Here are some ideas to get you started:
+📚 Focused on improving skills in software development, data structures, and algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Linux" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="Arch" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+<img align="left" alt="Git" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
+
+
+
+
+
+
+
