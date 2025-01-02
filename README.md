@@ -16,9 +16,6 @@
 <img align="left" alt="Arch" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
 <img align="left" alt="Vim" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg">
 <img align="left" alt="Git" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg">
-<\div>
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kt5u)](https://github.com/anuraghazra/github-readme-stats)
 
 
