@@ -8,7 +8,8 @@
 #
 <div>
 <a href="https://www.github.com/kt5u">
-  <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=kt5u&show_icons=true&theme=transparent&)](https://github.com/kt5u/github-readme-stats">
+  <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=kt5u&show_icons=true&theme=ayu-mirage)](https://github.com/kt5u/github-readme-stats">
+  <img height="180em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=kt5u&hide_title=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)">
 </div>
   
 <div style="display: inline_block"><br>
@@ -17,9 +18,6 @@
 <img align="left" alt="Arch" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
 <img align="left" alt="Vim" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg">
 <img align="left" alt="Git" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kt5u)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
