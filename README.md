@@ -20,4 +20,4 @@
 
 ### 📊 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kt5u&theme=iceberg)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kt5u)](https://github.com/kt5u/github-readme-stats)
